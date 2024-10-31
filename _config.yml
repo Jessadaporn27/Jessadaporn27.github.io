@@ -4,4 +4,4 @@ baseurl: ""
 url: "https://jessadaporn27.github.io/"
 theme: minima
 plugins:
-  - jekyll-feed
+
